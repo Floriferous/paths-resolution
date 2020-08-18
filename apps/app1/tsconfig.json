@@ -11,6 +11,6 @@
     "allowJs": true,
     "outDir": "dist"
   },
-  "include": ["src"],
+  "include": ["src", "../../shared"],
   "exclude": ["src/shared"]
 }
